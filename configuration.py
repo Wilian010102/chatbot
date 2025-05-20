@@ -1,1 +1,1 @@
-# API_KEY="your_real_key_here"
+API_KEY="your_real_key_here"
